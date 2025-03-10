@@ -12,3 +12,14 @@ You can use files that are already downloaded in directories (if a distro and ar
 Let's get started!
 
 
+First collect instalation files (from this repo or from the links): 
+
+Docker       https://download.docker.com/linux/ubuntu/dists/
+LM Studio    https://lmstudio.ai/download
+Models       https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+             
+
+
+
+
+
